@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "project": {
+    "name": "herald-tools",
+    "description": "Code map exported from Kindex for herald-tools.",
+    "languages": [],
+    "frameworks": [],
+    "analyzedAt": "2026-05-24T14:57:56",
+    "gitCommitHash": "7b30389fd33ad2fc63c6cfe060d857438870d5bb"
+  },
+  "nodes": [],
+  "edges": [],
+  "layers": [],
+  "tour": []
+}
